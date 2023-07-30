@@ -1,6 +1,6 @@
 # E-Cooper
 
-Techstack
+Techstack :
 
 <div style="display: flex;">
   <img src="/img/electronjs.png" alt="ElectronJS" style=" height: 50px; margin: 5px">
